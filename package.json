@@ -1,0 +1,17 @@
+{
+  "name": "gearbestgrabber",
+  "version": "1.0.0",
+  "description": "Gearbest product information grabber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gearbest",
+    "product",
+    "price",
+    "rating"
+  ],
+  "author": "André Santos",
+  "license": "ISC"
+}
